@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>크림 추천인코드 업데이트</title>
+    <link>https://YOUR_DOMAIN/</link>
+    <description>KREAM 추천인코드 및 혜택 변경 사항을 공지합니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 15 Aug 2025 05:26:47 +0000</lastBuildDate>
+    <item>
+      <title>페이지 초기 공개</title>
+      <link>https://YOUR_DOMAIN/</link>
+      <pubDate>Fri, 15 Aug 2025 05:26:47 +0000</pubDate>
+      <guid>https://YOUR_DOMAIN/</guid>
+      <description>최신 추천인코드 안내 페이지를 공개했습니다.</description>
+    </item>
+  </channel>
+</rss>
